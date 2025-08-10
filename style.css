@@ -226,7 +226,7 @@ nav ul li a:hover::after {
     height: 100vh;
     padding: 80px 5%;
     text-align: center;
-    background: url("person-removebg-preview.png") center/cover no-repeat;
+    background: url("IMG_6125[1].png") center/cover no-repeat;
   }
 
   /* Hide the Image */
@@ -278,7 +278,7 @@ nav ul li a:hover::after {
   }
 
   .hire-btn {
-    background: #808060;
+    background: transparent;
     color: white;
   }
 
@@ -956,4 +956,5 @@ nav ul li a:hover::after {
       justify-content: center;
   }
 }
+
 
